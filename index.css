@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+    border: 0px;
+}
+
+#tag-head {
+    width: 62%;
+    justify-content: center;
+    margin-left: 4em;
+    margin-top: 2.5em;
+}
+
+h3 {
+    font-size: 24px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#add_movie {
+    width: 180px;
+    height: 36px;
+    background-color: black;
+    color: white;
+}
+
+#clear_filters {
+    width: 180px;
+    height: 36px;
+    background-color: black;
+    color: white;
+}
+
+#add_movie:hover {
+    background-color: white;
+    color: black;
+    opacity: 0.6;
+}
+
+#clear_filters:hover {
+    background-color: white;
+    color: black;
+    opacity: 0.6;
+}

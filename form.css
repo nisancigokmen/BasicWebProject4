@@ -1,0 +1,29 @@
+form {
+    padding-left: 0.25em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    display: flex;
+}
+
+input {
+    width: 180px;
+    padding: 1em 3em 1.25em 3em;
+    margin-left: 2em;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 2em;
+}
+
+li {
+    list-style: none;
+    margin-right: 4em;
+}
+
+fieldset {
+    opacity: 0.9;
+    border: 2px solid black;
+    border-radius: 5px;
+}

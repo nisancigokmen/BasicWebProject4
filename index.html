@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
+    <link rel="stylesheet" href="./form.css">
+    <title> Movie Website Project</title>
+</head>
+
+<body>
+    <div id="tag-head">
+
+        <fieldset>
+            <h3> Movie Project </h3>
+            <hr>
+            <!--form action-->
+            <div id="form_movie">
+                <form action="#">
+                    <input type="text" name="name_movie" id="movie-name" placeholder="Movie Name"><br>
+                    <input type="text " name="url_movie" id="movie-url" placeholder="Movie Archive Link"><br>
+                    <input type="text" name="director_movie" id="director-movie" placeholder="Director">
+                </form>
+            </div>
+            <button value="" id="add_movie" onclick="addMovie()"> Add the Movie </button>
+            <hr>
+            <br><br>
+            <hr>
+            <!--form and-->
+            <div id="tag-body">
+                <!--add the movies-->
+
+                <div id="movies-title">
+                    <h3 id="movies">Movies</h3>
+                </div>
+                <hr>
+                <div id="added_data">
+                    <ul>
+
+                        <li id="name">Movie Name </li>
+                        <li id="archive"> Movie Archive</li>
+                        <li id="director">Director</li>
+                    </ul>
+
+
+                </div>
+                <hr><br>
+                <button id="clear_filters" onclick="clear()"> Clear All Filters</button>
+            </div>
+            <!-- add the movies and-->
+        </fieldset>
+    </div>
+
+
+
+
+
+
+
+
+    <script src="./index.js">
+    </script>
+</body>
+
+</html>
