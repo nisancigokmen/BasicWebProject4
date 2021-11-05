@@ -2,7 +2,6 @@
 
 https://user-images.githubusercontent.com/91744618/139551581-5f776fc4-3976-4abe-9436-9760c4277c90.mp4
 
-<h3>Please let us know your questions and comments. </h3>
 <hr>
 <h2> CONTACT </h2>
 <a href = "http://www.gmail.com" > nisancigokmen@gmail.com</a> <br>
