@@ -42,3 +42,6 @@ https://user-images.githubusercontent.com/91744618/139551581-5f776fc4-3976-4abe-
 &copy; Gökmen Nişancı / Web Developer.  <br>
 <img src="https://media2.giphy.com/media/3o7TKIAx6OXBhXfXWM/giphy.gif?cid=ecf05e47pk4q9c7eadr5gr3djcy0tnwic2s6y5ytzwc4zfsg&rid=giphy.gif&ct=g">
 
+<br> <br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
