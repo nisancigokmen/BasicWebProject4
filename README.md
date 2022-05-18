@@ -44,4 +44,4 @@ https://user-images.githubusercontent.com/91744618/139551581-5f776fc4-3976-4abe-
 
 <br> <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
